@@ -6,7 +6,6 @@ class Solution(object):
             if nums[i]<nums[i+1] :
                 ind = i
                 break
-
         if ind == -1:
             nums.reverse()
             return nums
@@ -20,5 +19,3 @@ class Solution(object):
 obj = Solution()
 nums= [1,2,3]
 obj.nextPermutation(nums)
-        
-        
