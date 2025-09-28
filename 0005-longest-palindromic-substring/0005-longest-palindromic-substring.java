@@ -15,6 +15,8 @@ class Solution {
         int maxLen = 0;
         String ans = "";
 
+    //odd length plaindromic substring
+
         for(int mid = 0; mid < len; mid++){
             int i = mid - 1;
             int j = mid + 1;
@@ -29,6 +31,9 @@ class Solution {
                 maxLen = curLen;
             }
         }
+
+        // even length palindromic substring
+        
         for(int mid = 0; mid < len; mid ++){
             int i = mid;
             int j = mid + 1;
