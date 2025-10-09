@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/muneera15/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/muneera15/Leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/muneera15/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/muneera15/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/muneera15/Leetcode/tree/master/0525-contiguous-array) |
 | [0898-transpose-matrix](https://github.com/muneera15/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/muneera15/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -68,9 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muneera15/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/muneera15/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/muneera15/Leetcode/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/muneera15/Leetcode/tree/master/0525-contiguous-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/muneera15/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
