@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muneera15/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/muneera15/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/muneera15/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0647-palindromic-substrings](https://github.com/muneera15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/muneera15/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muneera15/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/muneera15/Leetcode/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/muneera15/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Database
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muneera15/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/muneera15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [3194-find-words-containing-character](https://github.com/muneera15/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
