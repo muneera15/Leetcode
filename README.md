@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/muneera15/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muneera15/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/muneera15/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muneera15/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/muneera15/Leetcode/tree/master/0525-contiguous-array) |
 | [0898-transpose-matrix](https://github.com/muneera15/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/muneera15/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/muneera15/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/muneera15/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muneera15/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muneera15/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/muneera15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/muneera15/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/muneera15/Leetcode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muneera15/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
